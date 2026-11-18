@@ -1,4 +1,34 @@
-Hi Priyanshu kanojiya 👨‍💻
+# Hi, I'm Priyanshu Kanojiya 👋
+
+💻 Full Stack Developer | React | Node.js | JavaScript
+
+I build web applications with a focus on user experience,
+backend functionality, and AI integration.
+
+### 🚀 What I Do
+- Build full-stack web applications
+- Develop REST APIs using Node.js and Express
+- Integrate AI features into applications
+- Work with React to build responsive user interfaces
+- Handle databases and backend logic
+
+### 🛠 Tech Stack
+
+- Frontend: HTML, CSS, JavaScript, React
+- Backend: Node.js, Express
+- Database: MongoDB, MySQL
+- Tools: Git, GitHub, Docker, Figma
+
+### 📌 Featured Projects
+
+- AI PDF Manager – AI-powered PDF summarization
+- Food Delivery Application – Food ordering web application
+- AI Integration Projects – AI-powered application features
+
+### 📫 Connect With Me
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- Portfolio: YOUR_PORTFOLIO_URL
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/priyanshukanojiya) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/priyanshukanojiya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/psk123kanojiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu kanojiya) 
 
