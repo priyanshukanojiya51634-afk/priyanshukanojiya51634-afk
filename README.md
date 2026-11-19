@@ -28,6 +28,7 @@ backend functionality, and AI integration.
 ### 📫 Connect With Me
 
 - LinkedIn: (https://linkedin.com/in/priyanshu)
+- profile: (https://moonlit-pasca-ec3720.netlify.app/)
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/priyanshukanojiya) [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/priyanshukanojiya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/psk123kanojiya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanshu kanojiya) 
